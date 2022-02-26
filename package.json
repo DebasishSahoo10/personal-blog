@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "Debasish's Personal Blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A story of Coding Journey for Debasish",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Debasish Sahoo <debasishsahoo_@outlook.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/DebasishSahoo10/personal-blog/issues"
   },
   "dependencies": {
     "gatsby": "^4.8.0",
@@ -35,15 +35,15 @@
   "devDependencies": {
     "prettier": "^2.5.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://debasishsahooblog.netlify.app/",
   "keywords": [
-    "gatsby"
+    "perosnalblog"
   ],
   "license": "0BSD",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/DebasishSahoo10/personal-blog/blob/main/LICENSE"
   },
   "scripts": {
     "build": "gatsby build",
