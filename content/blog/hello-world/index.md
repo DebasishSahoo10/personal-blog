@@ -11,7 +11,8 @@ I have been doing community building on telegram for years now and been maintain
 Git branching is a way to make changes to the existing code without affecting (or crashing mostly) the product that has been made with that code. Lets understand it with a example - while you are reading this part of the blog I made some changes in the main branch code, then the site will change itself while you are reading it. This is why we create a branch and confirm the code changes first and then merge it to the main branch.
 
 ### Some lesser known Git commands
-|   Function  |     Command    |
-| ------------| -------------- |
-| git commend | $ git config --global alias.commend 'commit --amend --no-edit' |
-| git it      | $ git config --global alias.it \'!git init && git commit -m “root” --allow-empty' |
+- git please
+- git commend
+- git it
+- git staaash
+- git shorty
