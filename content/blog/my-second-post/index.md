@@ -1,7 +1,7 @@
 ---
 title: What I am currently doing
 date: "2022-02-25T23:46:37.121Z"
-description: Brief what I am currently doing and my future plans. *(Wow! I love blogging so much already.)*
+description: Brief what I am currently doing and my future plans. (Wow! I love blogging so much already)
 ---
 
 
