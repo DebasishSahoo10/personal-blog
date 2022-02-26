@@ -25,5 +25,5 @@ Git branching is a way to make changes to the existing code without affecting (o
     - git add
 
 ### Some open source licenses
-- #### GNU General Public License (GPL)
+- **GNU General Public License (GPL)**
 To protect the GNU software from becoming proprietary.
