@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Welcome to My Personal Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Debasish Sahoo`,
+      summary: `who currently learning how to code and build apps and websites.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A blog to record my coding journey`,
+    siteUrl: `https://debasishsahooblog.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `yoursimagifier`,
     },
   },
   plugins: [
@@ -105,7 +105,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Debasish's Blog",
           },
         ],
       },
