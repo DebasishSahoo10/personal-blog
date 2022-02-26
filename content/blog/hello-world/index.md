@@ -29,3 +29,15 @@ Git branching is a way to make changes to the existing code without affecting (o
 - **The Apache License** - allows you to freely use, modify, and distribute any Apache licensed product.
 - **Microsoft Public Licenses (Ms-PL)** - You are free to reproduce and distribute original or derivative works of any software licensed under the Ms-PL license.
 - **Berkeley Software Distribution (BSD)** - lets you freely modify and distribute your software’s code in the source or binary format as long as you retain a copy of the copyright notice, list of conditions, and the disclaimer.
+
+### What is hacktoberfest and why you should care
+Hacktoberfest is a yearly event to encourage people to contribute to open source in October. It’s a celebration of community, learning and giving back.Giving back to open source projects by contributing can be a great way to learn, practice skills.
+
+### What are the alternatives of Github
+<p align="center">
+> GitLab <br>
+> Bitbucket <br>
+> GitBucket <br>
+> Sourceforge <br>
+> AWS CodeCommit <br>
+</p>
