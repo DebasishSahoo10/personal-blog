@@ -25,5 +25,7 @@ Git branching is a way to make changes to the existing code without affecting (o
     - git add
 
 ### Some open source licenses
-- **GNU General Public License (GPL)**
-To protect the GNU software from becoming proprietary.
+- **GNU General Public License (GPL)** - To protect the GNU software from becoming proprietary.
+- **The Apache License** - allows you to freely use, modify, and distribute any Apache licensed product.
+- **Microsoft Public Licenses (Ms-PL)** - You are free to reproduce and distribute original or derivative works of any software licensed under the Ms-PL license.
+- **Berkeley Software Distribution (BSD)** - lets you freely modify and distribute your software’s code in the source or binary format as long as you retain a copy of the copyright notice, list of conditions, and the disclaimer.
