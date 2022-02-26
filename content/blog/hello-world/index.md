@@ -34,7 +34,7 @@ Git branching is a way to make changes to the existing code without affecting (o
 Hacktoberfest is a yearly event to encourage people to contribute to open source in October. It’s a celebration of community, learning and giving back.Giving back to open source projects by contributing can be a great way to learn, practice skills.
 
 ### What are the alternatives of Github
-<p align="center">
+<p align="left">
 > GitLab <br>
 > Bitbucket <br>
 > GitBucket <br>
