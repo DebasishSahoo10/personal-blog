@@ -16,3 +16,14 @@ Git branching is a way to make changes to the existing code without affecting (o
     - git it
     - git staaash
     - git shorty
+
+### Some most used Git commands
+    - git config
+    - git init
+    - git clone
+    - git status
+    - git add
+
+### Some open source licenses
+- #### GNU General Public License (GPL)
+To protect the GNU software from becoming proprietary.
