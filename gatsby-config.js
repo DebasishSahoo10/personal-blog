@@ -3,7 +3,7 @@ module.exports = {
     title: `Welcome to My Personal Blog 🚀`,
     author: {
       name: `Debasish Sahoo`,
-      summary: `who currently learning how to code and build apps and websites.`,
+      summary: `A 23 year old who currently learning how to code and build apps and websites.`,
     },
     description: `A blog to record my coding journey`,
     siteUrl: `https://debasishsahooblog.netlify.app/`,
