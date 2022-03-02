@@ -1,7 +1,7 @@
 ---
 title: Some coding knowledge
 date: "2022-02-27T22:12:03.284Z"
-description: "Wrote some coding facts and added my thoughts too"
+description: "Wrote some coding facts and added some of my understandings also. Ping me on twitter if you want anything to be added here."
 ---
 
 ### Writing good commit messages
