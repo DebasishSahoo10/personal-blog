@@ -1,7 +1,7 @@
 ---
 title: How I get into coding
 date: "2022-02-26T22:40:32.169Z"
-description: A short story about how I got into the coding world and got intrested in learning it from scratch.
+description: A short story about how I got into the coding world and got intrested in learning it from scratch. Click the heading to find out.
 ---
 ### Feed suggestion helps
 One day I was surfing my twitter and catching the geopolitical news as 
