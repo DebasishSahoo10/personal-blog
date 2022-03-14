@@ -39,3 +39,19 @@ Remember Finance is vast skill point to be an industry. Hence, it has some niche
 ### Places you must visit
 Manoj Rajgopal - a person who knows Finance from top to bottom  - 
 [Youtube](https://www.youtube.com/c/FinancewithManojRajgopal) [Website](https://www.finenvision.com/)
+
+Rachana Rande - a person who describes market to you like you are child - 
+[Youtube](https://www.youtube.com/c/rachanaphadke) [Website](https://www.rachanaranade.com/)
+
+Shanshak Udupa - he is my Finance Crush, that’s all i have to say - 
+[Youtube](https://www.youtube.com/c/ShashankUdupa1) [LinkedIN](https://www.linkedin.com/in/shashank-udupa-8a00807b/)
+
+For all personal finance stuffs -  
+[LLA](https://www.youtube.com/c/LabourLawAdvisor) [Ankur Warikoo](https://www.youtube.com/c/warikoo)
+
+The Subtle Investor (Sejuty) - she is a small YTber but she is at a good paying front-end finance job in UK in an AMC  - follow her you will know a lot of things about industry - 
+[Youtube](https://www.youtube.com/channel/UCLGl57tJJat4kBb0Fd2138Q)
+
+Think School - For all the marketing Gyaan - 
+[Youtube](https://www.youtube.com/c/ThinkSchool)
+
