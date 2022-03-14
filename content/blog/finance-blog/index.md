@@ -37,21 +37,16 @@ Remember Finance is vast skill point to be an industry. Hence, it has some niche
 * Don’t just do certificates to show it in the CV - the person interviewing you well know how these days certificates are gained - so whenever doing a course learn from it so that you can actually make the interviewer understand what are those concepts ( here  a tip from me - whenever i do some course - i always ask possible questions that a interviewer seeing the course on my CV could ask - and i  always try to answer them in a way that if the interviewer is a 10 year old kid)
 * Later if I get any Important points like these, I will update them on my social media so give them a follow.
 ### Places you must visit
-Manoj Rajgopal - a person who knows Finance from top to bottom  - 
+* Manoj Rajgopal - a person who knows Finance from top to bottom  - 
 [Youtube](https://www.youtube.com/c/FinancewithManojRajgopal) [Website](https://www.finenvision.com/)
-
-Rachana Rande - a person who describes market to you like you are child - 
+* Rachana Rande - a person who describes market to you like you are child - 
 [Youtube](https://www.youtube.com/c/rachanaphadke) [Website](https://www.rachanaranade.com/)
-
-Shanshak Udupa - he is my Finance Crush, that’s all i have to say - 
+* Shanshak Udupa - he is my Finance Crush, that’s all i have to say - 
 [Youtube](https://www.youtube.com/c/ShashankUdupa1) [LinkedIN](https://www.linkedin.com/in/shashank-udupa-8a00807b/)
-
-For all personal finance stuffs -  
-[LLA](https://www.youtube.com/c/LabourLawAdvisor) [Ankur Warikoo](https://www.youtube.com/c/warikoo)
-
-The Subtle Investor (Sejuty) - she is a small YTber but she is at a good paying front-end finance job in UK in an AMC  - follow her you will know a lot of things about industry - 
+* For all personal finance stuffs -  
+[LLA](https://www.youtube.com/c/LabourLawAdvisor) - [Ankur Warikoo](https://www.youtube.com/c/warikoo)
+* The Subtle Investor (Sejuty) - she is a small YTber but she is at a good paying front-end finance job in UK in an AMC  - follow her you will know a lot of things about industry - 
 [Youtube](https://www.youtube.com/channel/UCLGl57tJJat4kBb0Fd2138Q)
-
-Think School - For all the marketing Gyaan - 
+* Think School - For all the marketing Gyaan - 
 [Youtube](https://www.youtube.com/c/ThinkSchool)
 
