@@ -1,31 +1,30 @@
 ---
 title: Creativity (a misrepresentation for years)
 date: "2022-07-06T23:46:37.121Z"
-description: In this piece, I have tried to introduce a process to boost your creativity with practical examples. Check it out with a pre-read hint that it is not what you are thinking
+description: In this piece, I have tried to introduce a process to boost your creativity with practical examples. Check it out with a pre-read hint that it is not what you are thinking.
 ---
 ### What I think Creativity means
 Creativity is a state of mind where you surpasses your normal level of thinking and your brain imagines extra ordinary possibilities with relation to the output you are trying to achieve and when finally you land on something, the same process runs in a recursion.
 
-### Is backend better than frontend?
-I am still travelling in the backend world and a common opinion I crashed upon is : Backend techs are old and solid, so they have sustained for years and years. while frontend is majorly driven by frameworks, so a good amount of developers believe that a specific frontend tech is a matter of time, when there will be better a framework, you have to learn it and prove yourself again. on the other hand backend things are very basic and every machine every plan every execution stands on those basic pillars. hence, they believe that focusing on backend more will get you big wins in the long run. How much of it is true and fact, I honestly don't know as I am just getting into it. But I am happier than ever, because I am slowly getting to that level where I can answer this question. 
+### How to kick-start it
+I personally belive there is no way to teach someone creativity, it comes from within (it is exactly not like a hard learned skill), you need a free flowing mind for it, hence here is a guide to how to kickstart it (and not to learn it). some people don't want it, so they don't do it, they like the logicality of the world rather than the possibilities which is all fine. if you want it here it is : 
 
-### Frontend vs. Backend : my views
-I feel both are very very exciting and also a good distance apart from each other. Frontend might include more creativity in terms of execution while backend is purely logic driven. Things we see on an app can be changed but how those things work and how reliable they should, can't be changed. moreover, optimization in frontend is not that of big importance but in backend, optimization is everything. (I might be wrong on some of these views, but we will see)
+    see -> implement -> experiment -> analyse
+and this process goes on and on. to describe it in details Varun Mayaa (my favourite interpreneur/CEO) made a fabulous podcast on it and i can't agree with it more. Here it goes :
+### The actual Process
+1. **See** : by see, it means following the works of others who are great at it. suppose you are trying to be a graphic designer, so you first go to dribble or behance and then see what top 10% of your field has been designing. Mimmicking from the best is still the best way to learn.
+2. **Implement** : you then try to replicate one of their simple works. in this process, you learn individual pieces of the same. let's say you are desiging a banner then individual pieces can be a good font, shapes that are involved, themes and color scheme applied to it. and then you put those pieces together to build the whole thing (similar to the original).
+3. **Experiment** : and the next time you try to build something else, you twist something in those pieces and purposefully make a mistake. in this way you get to learn what works, what doesn't, whatever is working, when and how it is working.
+4. **Analyze** : finally, you compare your work to the similiar works of other good designers, you send them to peers for review and suggestion.
 
-### Development flow of an app
-Last to last week I finally figured out, what is the flow of an actual development of maximum of apps we see today. Here goes
-* **UX Designer** : they first have design the idea into wireframes (a rough digital drawing with user flow mentioned). they have expertise in researching and knowing what users actually want from the app, so they decided the design, the flow and a ton of minute things that I have no idea about.
-* **UI Designer** : they transfer the wireframes into actual design with right colors, elements,  graphic and everything that is needed to get the final and actual look of the app. But they do it on a graphical level on Figma/Photoshop/Illustrator.
-* **Frontend Developer** : after finalizing the design UI designer will pass on the Figma file to the frontend developer, who will now transform that design into code (because code is faster than graphics any day any time). frontend people use various language and frameworks to do it.
-* **Backend Developer** : they handles database and algorithms that required to give the user what he wants in interaction with every element. where user data will be stored, how to make the app fast as possible, how to introduce a new feature with out messing up the old code - all these things are handled by backend people.
+And now after doing this process again and again, you will develop your own pattern of doing things and habbit of everytime experiment and find a better thing will be with you forver. with another example : a good photographer when starts, he follow others' works, then he tried to find a place like that, a lighting like that, a frame/angale like that, and finally captures his first try. He then realises the things that looked changed from the original, he then tries to get into orginal photographer's thought process, then he tries again and again and again. when he gets nearest to the original, he tried changing some elements, what if change the pose to this, what if in the editing i give another tone and color etc. This is exact process I have gone through to become whatver little skilled photographer I am today. but to see this process bearing its fruit, go and check instagram of Smruti, he is the man I blindly belive (in any work), that he is going to kill it. Get to him on a chat and ask him how he developed his own pattern. and lastly don't get hesitate to be inspired from another's work and try it. Here is exactly what Varun said about the same thing :
 
-An real world example : you click on the "apply discount" button. that button is planned by an UX designer, how it should look is designed by an UI designer, the button you just pressed is shown there by a Frontend developer and also what happens when you click there is his work and finally how fast the discount will be applied and which discount type will be good for you is the doings of a Backend developer. sometimes both the frontend and backend work is done by one person, and the world call them Full Stack Developer (one day my LinkedIn will be calling me the same, fingers crossed).
+    "No one does it from scratch. evryone takes inspiration. the most creative person in the world? Yes, he too. we just don't know his source of inspiration"
+### How creativity is mostly seen
+Most of the world think creativity like an on and off switch, it comes when demanded, it comes within their clauses and conditions, but NO. They think creativity just same like Data. let's see how Creativity and Data is way apart. Recently, Product designer of Nothing said this in a video :
 
-### DSA and Python (an elephant and his mahout)
-I have started petting the elephant named Data structures and algorithms(DSA). it is the reason why there is a computer science degree even exists, so mastering it is a must for me. and to learn it I choose Python as the language as it is the most intelligent language and way simpler than my usual breakfast JavaScript.
+    "this is our chance for expression and to create something different. in some companies, everything needs to be backed by data and then you almost thinking and at Nothing, there is space for expression and there is space for humanity. we are not robots. we are humans making products for humans"
 
-### Next goal : DevOps
-as of now I have no idea DevOps is the name of which bird? that's why it is next on my figuring list. Right now in the industry, DevOps is a must for Full Stack Development, so can't risk ignoring it. 
+And this is the exact reason why in every era creativity will win over Data (also it is one of the reason why Nothing is my dream company). When give people's creativity a chance, you are creating something what no one has ever seen and if this isn't beauty, then what is? by your work, you are making them realise of something that they will love, but they never knew about. if this isn't creation then what is?
 
-### Coding concepts has two faces
-Implementing a coding concept and knowing it top to down from its root is two different things. One can implement the concepts to build basic stuffs, but the interviewer whom you are showing that work too will expect you to be knowing them as detailed as possible. So, on the very first iteration of my coding journey, I have built projects using concepts and moderately knowing about them, but now I am deep diving into them (it is as satisfying as seeing JCB ki khudaai)
+Data is not feeling humans it is based on what they have alredy felt, while creativity is about creating a new feeling. Give me same salary, I will alwys choose a creative job rather than a data based job (even if prior has more working hours). This is me signing off here, catching you eyes in the next blog.
