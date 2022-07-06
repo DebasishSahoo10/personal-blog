@@ -1,7 +1,7 @@
 ---
 title: Creativity (a misrepresentation for years)
 date: "2022-07-06T23:46:37.121Z"
-description: in this piece, I have tried to introduce a process to boost your creativity with practical examples. Check it out with a pre-read hint that it is not what you are thinking
+description: In this piece, I have tried to introduce a process to boost your creativity with practical examples. Check it out with a pre-read hint that it is not what you are thinking
 ---
 ### Introduction to backend
 So one week back I have started exploring some ways to gain industry insights and tried to know about how exactly things work out in the real jobs. then, I stopped upon two people Abi(forgoodcode) and Kshitiz Miglani. Both of them has a good experience of industry. I have joined Kshitiz sir's bootcamp Devsnest for a detailed learning of full-stack and as Abi's content is free on Instagram, I read at least 5 posts daily there and tried to learn its concepts. In this process I got a introductory view about backend. on the first view it seemed (or still seems) a bit complicated, no not hard but exciting. There are a tons of concepts and ideas in backend which industry currently doesn't use these days but we have to learn to it because further and newer concepts are depended on those concepts. another thing I felt that Logic is more required and important in backed than in frontend. 
