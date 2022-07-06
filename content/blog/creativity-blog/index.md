@@ -9,7 +9,8 @@ Creativity is a state of mind where you surpasses your normal level of thinking 
 ### How to kick-start it
 I personally belive there is no way to teach someone creativity, it comes from within (it is exactly not like a hard learned skill), you need a free flowing mind for it, hence here is a guide to how to kickstart it (and not to learn it). some people don't want it, so they don't do it, they like the logicality of the world rather than the possibilities which is all fine. if you want it here it is : 
 
-    see -> implement -> experiment -> analyse
+> see -> implement -> experiment -> analyse
+
 and this process goes on and on. to describe it in details Varun Mayaa (my favourite interpreneur/CEO) made a fabulous podcast on it and i can't agree with it more. Here it goes :
 ### The actual Process
 1. **See** : by see, it means following the works of others who are great at it. suppose you are trying to be a graphic designer, so you first go to dribble or behance and then see what top 10% of your field has been designing. Mimmicking from the best is still the best way to learn.
@@ -19,11 +20,11 @@ and this process goes on and on. to describe it in details Varun Mayaa (my favou
 
 And now after doing this process again and again, you will develop your own pattern of doing things and habbit of everytime experiment and find a better thing will be with you forver. with another example : a good photographer when starts, he follow others' works, then he tried to find a place like that, a lighting like that, a frame/angale like that, and finally captures his first try. He then realises the things that looked changed from the original, he then tries to get into orginal photographer's thought process, then he tries again and again and again. when he gets nearest to the original, he tried changing some elements, what if change the pose to this, what if in the editing i give another tone and color etc. This is exact process I have gone through to become whatver little skilled photographer I am today. but to see this process bearing its fruit, go and check instagram of Smruti, he is the man I blindly belive (in any work), that he is going to kill it. Get to him on a chat and ask him how he developed his own pattern. and lastly don't get hesitate to be inspired from another's work and try it. Here is exactly what Varun said about the same thing :
 
-    No one does it from scratch. everyone takes inspiration. the most creative person in the world? Yes, he too. we just don't know his source of inspiration
+> No one does it from scratch. everyone takes inspiration. the most creative person in the world? Yes, he too. we just don't know his source of inspiration
 ### How creativity is mostly seen
 Most of the world think creativity like an on and off switch, it comes when demanded, it comes within their clauses and conditions, but NO. They think creativity just same like Data. let's see how Creativity and Data is way apart. Recently, Product designer of Nothing said this in a video :
 
-    This is our chance for expression and to create something different. in some companies, everything needs to be backed by data and then you almost thinking and at Nothing, there is space for expression and there is space for humanity. we are not robots. we are humans making products for humans
+> This is our chance for expression and to create something different. in some companies, everything needs to be backed by data and then you almost thinking and at Nothing, there is space for expression and there is space for humanity. we are not robots. we are humans making products for humans
 
 And this is the exact reason why in every era creativity will win over Data (also it is one of the reason why Nothing is my dream company). When give people's creativity a chance, you are creating something what no one has ever seen and if this isn't beauty, then what is? by your work, you are making them realise of something that they will love, but they never knew about. if this isn't creation then what is?
 
